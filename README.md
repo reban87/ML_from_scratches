@@ -1,5 +1,4 @@
 # ML_from_scratches
-I will be implementing ML models from scratch
 
 ## Module 1: Introduction to Machine Learning
 
